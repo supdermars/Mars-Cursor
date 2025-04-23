@@ -43,7 +43,7 @@ cursor多次删除账号再登录后就会锁定账户，很多小伙伴找到�
 
 ## 软件下载地址
 
-- Windows:https://wwmq.lanzouu.com/ijlwV2twdiyj 密码:bb58
+- Windows:https://wwmq.lanzouu.com/iGzD82u97q4j 密码:2c43
 - macOS: 待上线
 
 ## 安装说明
